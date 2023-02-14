@@ -1,0 +1,10 @@
+div{
+    height: 200px;
+    width: 200px;
+    box-shadow: 0 0 220px 4px rgba(176, 210, 39, 0.8),0px 0px 40px 15px rgb(16, 224, 210);
+}
+body{
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+}
