@@ -1,7 +1,7 @@
 div{
-    height: 200px;
-    width: 200px;
-    box-shadow: 0 0 220px 4px rgba(176, 210, 39, 0.8),0px 0px 40px 15px rgb(16, 224, 210);
+    height: 150px;
+    width: 400px;
+    box-shadow: 0 2px 0 0 red, 0 6px 4px 0 blue,0 11px 5px 0 rgb(22, 143, 22),0 18px 12px 0 rgb(179, 35, 35),0 29px 14px 0 rgba(255, 166, 0, 0.892),0 60px 30px 20px rgba(0, 255, 255, 0.553);
 }
 body{
     display: flex;
